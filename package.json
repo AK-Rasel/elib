@@ -1,0 +1,25 @@
+{
+  "name": "elib-apis",
+  "version": "1.0.0",
+  "description": "Ebook projerct",
+  "main": "index.js",
+  "scripts": {
+    "dav": "nodemon server.ts"
+  },
+  "keywords": [
+    "Api",
+    "express"
+  ],
+  "author": "rasel <raselak101010@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.5.0",
+    "@types/node": "^20.14.8",
+    "eslint": "^9.5.0",
+    "globals": "^15.6.0",
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.2",
+    "typescript-eslint": "^7.13.1"
+  }
+}
