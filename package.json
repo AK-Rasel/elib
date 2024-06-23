@@ -4,7 +4,7 @@
   "description": "Ebook projerct",
   "main": "index.js",
   "scripts": {
-    "dav": "nodemon server.ts"
+    "dev": "nodemon server.ts"
   },
   "keywords": [
     "Api",
